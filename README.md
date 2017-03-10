@@ -33,4 +33,4 @@ My colleague Ann T. provided the necessary information and requests to develop t
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License.] (LICENSE)
